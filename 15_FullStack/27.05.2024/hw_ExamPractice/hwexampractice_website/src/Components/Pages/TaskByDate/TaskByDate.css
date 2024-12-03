@@ -1,0 +1,4 @@
+.TaskByDate {
+	height: 75vh;
+    overflow-y: scroll;
+}

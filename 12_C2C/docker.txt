@@ -1,0 +1,1 @@
+docker run --expose 9090 -p 9090:8080 -d mindalizeev/my_songs:0.0.4

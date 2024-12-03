@@ -1,0 +1,31 @@
+div{
+    background-color: black;
+    margin: auto;
+}
+.trafficLightBase{
+    width: 50%;
+    height: 35vh;
+    padding: 10vh;
+}
+figure{
+    margin: auto;
+    border-radius: 50%;
+    width: 40%;
+    height: 35vh;
+    background-color: rgb(7, 7, 7);
+    box-shadow: inset -30px -30px 150px 50px rgba(2224, 74, 74, 0.301);
+}
+.leftLight{
+    float: left;
+    background-color: rgba(144, 34, 34, 0.66);
+}
+.rightLight{
+    float: right;
+    background-color: rgba(187, 82, 44, 0.608);
+}
+.trafficLightPole{
+    width: 10%;
+    padding: 20px;
+    height: 30vh;
+}
+

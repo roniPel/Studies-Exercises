@@ -1,0 +1,28 @@
+figure{
+    height: 12vh;
+    width: 12vh;
+    margin: auto;
+    border-radius: 50%;
+}
+.trafficLightBase{
+    background-color: black;
+    height: 50vh;
+    width: 30vh;
+    margin: auto;
+}
+.trafficLightPole{
+    background-color: black;
+    height: 40vh;
+    width: 10vh;
+    margin: auto;
+}
+.lightRed{
+    background-color: red;  
+}
+.lightYellow{
+    background-color: yellow;
+}
+.lightGreen{
+    background-color: green;
+}
+

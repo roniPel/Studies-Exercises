@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee57121b-44c8-42ca-b6dd-2b822df26e53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../01_Test/Test" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Test/Test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Rest/catLab/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../10_Rest/catLab/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_MicroServices/MicroServices/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11_MicroServices/MicroServices/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_MicroServices/MicroServices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11_MicroServices/MicroServices/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12_C2C/songs/src/main/java/com/mindali/songs/service/PlaylistService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../12_C2C/songs/src/main/java/com/mindali/songs/service/PlaylistService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_HTML/ClassExercise3_080424/css/mycss.css" beforeDir="false" afterPath="$PROJECT_DIR$/../13_HTML/ClassExercise3_080424/css/mycss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_HTML/ClassExercise_080424/ClassExercise_Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../13_HTML/ClassExercise_080424/ClassExercise_Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Web/17.04.2024/ClassExercise1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Web/17.04.2024/ClassExercise1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Web/17.04.2024/ClassExercise1/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Web/17.04.2024/ClassExercise1/js/site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyProjects/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gUeGVGrxIeRxv5WS20MgVtcEES" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ronir/IdeaProjects/09_Spring"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee57121b-44c8-42ca-b6dd-2b822df26e53" name="Changes" comment="" />
+      <created>1715756488068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715756488068</updated>
+    </task>
+    <servers />
+  </component>
+</project>
